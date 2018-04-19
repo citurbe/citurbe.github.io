@@ -1,6 +1,6 @@
 .section {
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .row {
@@ -10,4 +10,65 @@
 h1 {
     font-weight: 500;
     font-size: 80px;
+}
+
+.icon {
+    width: 200px;
+}
+
+.current-page {
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.contact {
+    text-align: left;
+    margin-left: 35%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.resume {
+    text-align: left;
+    margin-left: 10%;
+    font-size: 18px;
+}
+
+.job-title {
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.section-heading {
+    font-weight: 800;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 22px;
+}
+
+.project-desc {
+    text-align: left;
+}
+
+.project {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid thin grey;
+    font-size: 18px;
+}
+
+.project-name {
+    text-align: left;
+    margin-top: 10px;
+    font-weight: 700;
+}
+
+.project-link {
+    text-decoration: underline;
 }
